@@ -37,7 +37,10 @@ The game introduces players to the history and contributions of Muslim women sch
 ## How to Run
 1. Clone this repository  
 2. Open the `.uproject` file  
-3. Build / Play the project  
+3. Build / Play the project
+
+## Playable Build
+Download the packaged game from the [Releases] section.
 
 ---
 
