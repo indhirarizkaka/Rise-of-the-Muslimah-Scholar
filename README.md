@@ -9,10 +9,13 @@ The game introduces players to the history and contributions of Muslim women sch
 ## Screenshots
 
 <p align="center">
-  <img src="Screenshots/gameplay.png" width="30%" />
-  <img src="Screenshots/gameplay.png" width="30%" />
-  <img src="Screenshots/gallery.png" width="30%" />
-  <img src="Screenshots/quiz.png" width="30%" />
+  <img src="Screenshots/UI Main Menu.png" width="30%" />
+  <img src="Screenshots/Tutorial.png" width="30%" />
+  <img src="Screenshots/Gameplay.png" width="30%" />
+  <img src="Screenshots/Gameplay (2).png" width="30%" />
+  <img src="Screenshots/Gameplay (3).png" width="30%" />
+  <img src="Screenshots/Gameplay (4).png" width="30%" />
+  <img src="Screenshots/Quiz.png" width="30%" />
 </p>
 
 ---
